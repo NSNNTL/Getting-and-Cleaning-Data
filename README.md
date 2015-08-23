@@ -24,13 +24,10 @@ What you find in this repository
 CodeBook.md: information about raw and tidy data set
 README.md: this file
 run_analysis.R: R script to transform raw data set in a tidy one
-How to
 
-clone this repository
-download compressed raw data
-unzip raw data and copy the directory 'UCI HAR Dataset' to the cloned repository root directory
-open a R console and set the working directory to the repository root
-run run_analysis.R script
-
-
+How to clone this repository
+1.download compressed raw data
+2.unzip raw data and copy the directory 'UCI HAR Dataset' to the cloned repository root directory
+3. open a R console and set the working directory to the repository root
+4. run run_analysis.R script
 The data set is written to the file 'tidy-UCI-HAR-dataset-AVG'.
